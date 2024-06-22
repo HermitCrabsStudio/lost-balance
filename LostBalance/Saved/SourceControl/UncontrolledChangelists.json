@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/robim/Desktop/LostBalanceProject/lost-balance/LostBalance/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/robim/Desktop/LostBalanceProject/lost-balance/LostBalance/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CW/6HT16P8P5RAXNJG3EVYWE9.uasset",
+				"C:/Users/robim/Desktop/LostBalanceProject/lost-balance/LostBalance/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset",
+				"C:/Users/robim/Desktop/LostBalanceProject/lost-balance/LostBalance/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29.uasset",
+				"C:/Users/robim/Desktop/LostBalanceProject/lost-balance/LostBalance/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/A/JH/8TTAOMHN06NOHWGDJXKH1N.uasset",
+				"C:/Users/robim/Desktop/LostBalanceProject/lost-balance/LostBalance/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/robim/Desktop/LostBalanceProject/lost-balance/LostBalance/Content/LostBalance/Levels/Test1.umap"
+			]
+		}
+	]
+}
