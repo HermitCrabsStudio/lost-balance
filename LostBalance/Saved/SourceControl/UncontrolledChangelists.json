@@ -5,26 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/UI/Widgets/WBP_HUD_v1.uasset",
-				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Levels/Test1.umap",
-				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/UI/Images/Background46x14.uasset",
-				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/UI/Fonts/Koulen/Koulen-Regular.uasset",
-				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/UI/Fonts/Koulen/Koulen-Regular_Font.uasset",
-=======
-				"C:/Users/areve/Desktop/lost-balance/LostBalance/Content/LostBalance/Levels/LevelDesignTest.umap",
-				"C:/Users/areve/Desktop/lost-balance/LostBalance/Content/LostBalance/Levels/_GENERATED/areve/CubeGridToolOutput_1724A2A4.uasset",
-				"C:/Users/areve/Desktop/lost-balance/LostBalance/Content/LostBalance/Levels/_GENERATED/areve/CubeGridToolOutput_4B4275F2.uasset",
-				"C:/Users/areve/Desktop/lost-balance/LostBalance/Content/LostBalance/Levels/_GENERATED/areve/CubeGridToolOutput_F1EFA91D.uasset",
-				"C:/Users/areve/Desktop/lost-balance/LostBalance/Content/LostBalance/Levels/_GENERATED/areve/Stairs_F9A0123C.uasset",
->>>>>>> Stashed changes
-				"C:/Users/robim/Desktop/LostBalanceProject/lost-balance/LostBalance/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/robim/Desktop/LostBalanceProject/lost-balance/LostBalance/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CW/6HT16P8P5RAXNJG3EVYWE9.uasset",
-				"C:/Users/robim/Desktop/LostBalanceProject/lost-balance/LostBalance/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset",
-				"C:/Users/robim/Desktop/LostBalanceProject/lost-balance/LostBalance/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29.uasset",
-				"C:/Users/robim/Desktop/LostBalanceProject/lost-balance/LostBalance/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/A/JH/8TTAOMHN06NOHWGDJXKH1N.uasset",
-				"C:/Users/robim/Desktop/LostBalanceProject/lost-balance/LostBalance/Content/FirstPerson/Maps/FirstPersonMap.umap",
-				"C:/Users/robim/Desktop/LostBalanceProject/lost-balance/LostBalance/Content/LostBalance/Levels/Test1.umap"
+				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Levels/TestBarreEmotiveDesignermap.umap",
+				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/UI/Widgets/WBP_HUD_v1.uasset"
 			]
 		}
 	]
