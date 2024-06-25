@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/diego/Documents/GitHub/lost-balance/LostBalance/Content/LostBalance/Levels/TestBarreEmotiveDesignermap.umap",
+				"C:/Users/diego/Documents/GitHub/lost-balance/LostBalance/Content/LostBalance/Levels/Test1.umap",
 				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Levels/TestBarreEmotiveDesignermap.umap",
 				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/UI/Widgets/WBP_HUD_v1.uasset",
@@ -15,8 +17,7 @@
 				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Blueprints/BP_TriggerEmozione1.uasset",
 				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Blueprints/BP_TriggerEmozione2.uasset",
 				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Blueprints/BP_TriggerEmozione3.uasset",
-				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Blueprints/BP_TriggerEmozione4.uasset",
-				"C:/Users/diego/Documents/GitHub/lost-balance/LostBalance/Content/LostBalance/Levels/TestBarreEmotiveDesignermap.umap"
+				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Blueprints/BP_TriggerEmozione4.uasset"
 			]
 		}
 	]
