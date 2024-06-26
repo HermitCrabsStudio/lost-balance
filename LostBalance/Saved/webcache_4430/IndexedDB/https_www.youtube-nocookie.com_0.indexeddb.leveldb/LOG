@@ -1,0 +1,6 @@
+2024/06/26-14:45:56.826 4dd0 Creating DB C:/Users/david/Documents/GitHub/lost-balance/LostBalance/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/06/26-14:45:56.839 4dd0 Reusing MANIFEST C:/Users/david/Documents/GitHub/lost-balance/LostBalance/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/26-14:49:05.171 51b4 Level-0 table #5: started
+2024/06/26-14:49:05.187 51b4 Level-0 table #5: 1167 bytes OK
+2024/06/26-14:49:05.187 51b4 Delete type=0 #3
+2024/06/26-14:49:05.188 51b4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
