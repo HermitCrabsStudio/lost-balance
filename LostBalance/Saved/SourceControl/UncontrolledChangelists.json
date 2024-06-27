@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHubRepo/lost-balance/LostBalance/Content/LostBalance/Levels/TestEmotionShaders.umap",
+				"D:/GitHubRepo/lost-balance/LostBalance/Content/LostBalance/Materials/Shaders/TestPostProcess.uasset",
+				"D:/GitHubRepo/lost-balance/LostBalance/Content/LostBalance/Blueprints/Volumes/PostProcessController.uasset",
 				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Levels/TestBarreEmotiveDesignermap.umap",
 				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/UI/Widgets/WBP_HUD_v1.uasset",
