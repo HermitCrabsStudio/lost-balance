@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/diego/Documents/GitHub/lost-balance/LostBalance/Content/LostBalance/Levels/TestBarreEmotiveDesignermap.umap",
+				"C:/Users/diego/Documents/GitHub/lost-balance/LostBalance/Content/LostBalance/Levels/Prototype_map_diego.umap",
+				"C:/Users/diego/Documents/GitHub/lost-balance/LostBalance/Content/LostBalance/Levels/Prototype_map.umap",
+				"C:/Users/diego/Documents/GitHub/lost-balance/LostBalance/Content/LostBalance/Blueprints/Player/BP_FirstPersonCharacter.uasset",
 				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Levels/TestBarreEmotiveDesignermap.umap",
 				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/UI/Widgets/WBP_HUD_v1.uasset",
@@ -174,8 +178,7 @@
 				"C:/Users/david/Documents/GitHub/lost-balance/LostBalance/Content/SoulCity/EffectsMobileOpt/Steam/Materials/M_Smoke_MacroUV_Subtle_Emissive_LitBlue.uasset",
 				"C:/Users/david/Documents/GitHub/lost-balance/LostBalance/Content/SoulCity/EffectsMobileOpt/Steam/Materials/M_Smoke_MacroUV_Subtle_Emissive_LitRed.uasset",
 				"C:/Users/david/Documents/GitHub/lost-balance/LostBalance/Content/SoulCity/EffectsMobileOpt/Steam/Materials/M_Smoke_MacroUV_Subtle_Emissive_LitGreen.uasset",
-				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/UI/Widgets/WBP_Fadewidget.uasset",
-				"C:/Users/diego/Documents/GitHub/lost-balance/LostBalance/Content/LostBalance/Levels/TestBarreEmotiveDesignermap.umap"
+				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/UI/Widgets/WBP_Fadewidget.uasset"
 			]
 		}
 	]
