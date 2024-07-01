@@ -1912,3 +1912,156 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.01-21.05.16:914][663]LogFileHelpers: InternalPromptForCheckoutAndSave took 293 ms (total: 517 ms)
 [2024.07.01-21.05.16:918][663]AssetCheck: New page: Asset Save: Prototype_map_BUILDING
 [2024.07.01-21.05.16:918][663]LogContentValidation: Display: Validating /Script/Engine.World /Game/LostBalance/Levels/Prototype_map_BUILDING.Prototype_map_BUILDING
+[2024.07.01-21.11.01:017][621]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LostBalance/Levels/_GENERATED/areve/Box_E9C41237.Box_E9C41237
+[2024.07.01-21.11.01:017][621]LogStaticMesh: Display: Building static mesh Box_E9C41237...
+[2024.07.01-21.11.01:018][621]LogStaticMesh: Built static mesh [0.00s] /Game/LostBalance/Levels/_GENERATED/areve/Box_E9C41237.Box_E9C41237
+[2024.07.01-21.11.01:018][621]LogActorFactory: Actor Factory spawned StaticMesh /Game/LostBalance/Levels/_GENERATED/areve/Box_E9C41237.Box_E9C41237 as actor: StaticMeshActor /Game/LostBalance/Levels/Prototype_map_BUILDING.Prototype_map_BUILDING:PersistentLevel.StaticMeshActor_343
+[2024.07.01-21.12.25:570][ 92]Cmd: DUPLICATE
+[2024.07.01-21.12.25:570][ 92]Cmd: ACTOR DUPLICATE
+[2024.07.01-21.14.22:866][131]Cmd: DUPLICATE
+[2024.07.01-21.14.22:866][131]Cmd: ACTOR DUPLICATE
+[2024.07.01-21.15.47:300][364]Cmd: DELETE
+[2024.07.01-21.15.47:301][364]Cmd: ACTOR DELETE
+[2024.07.01-21.15.47:315][364]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.01-21.15.47:323][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.07.01-21.15.47:324][364]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.07.01-21.15.54:053][ 88]Cmd: DUPLICATE
+[2024.07.01-21.15.54:053][ 88]Cmd: ACTOR DUPLICATE
+[2024.07.01-21.17.02:896][688]Cmd: TRANSACTION UNDO
+[2024.07.01-21.17.02:896][688]LogEditorTransaction: Undo Scale Elements
+[2024.07.01-21.17.17:114][240]Cmd: TRANSACTION UNDO
+[2024.07.01-21.17.17:114][240]LogEditorTransaction: Undo Scale Elements
+[2024.07.01-21.17.51:977][836]Cmd: MODE SCALEGRID=0
+[2024.07.01-21.18.07:556][486]Cmd: TRANSACTION UNDO
+[2024.07.01-21.18.07:556][486]LogEditorTransaction: Undo Scale Elements
+[2024.07.01-21.18.09:232][625]Cmd: MODE SCALEGRID=1
+[2024.07.01-21.18.19:536][757]Cmd: TRANSACTION UNDO
+[2024.07.01-21.18.19:536][757]LogEditorTransaction: Undo Clicking on Elements
+[2024.07.01-21.18.20:374][808]Cmd: TRANSACTION UNDO
+[2024.07.01-21.18.20:375][808]LogEditorTransaction: Undo Clicking on Elements
+[2024.07.01-21.18.21:008][864]Cmd: TRANSACTION UNDO
+[2024.07.01-21.18.21:009][864]LogEditorTransaction: Undo Move Elements
+[2024.07.01-21.19.25:193][183]Cmd: TRANSACTION UNDO
+[2024.07.01-21.19.25:193][183]LogEditorTransaction: Undo Move Elements
+[2024.07.01-21.19.25:558][200]Cmd: TRANSACTION UNDO
+[2024.07.01-21.19.25:558][200]LogEditorTransaction: Undo Move Elements
+[2024.07.01-21.19.26:964][325]Cmd: TRANSACTION UNDO
+[2024.07.01-21.19.26:964][325]LogEditorTransaction: Undo Clicking on Elements
+[2024.07.01-21.20.53:789][112]Cmd: TRANSACTION UNDO
+[2024.07.01-21.20.53:789][112]LogEditorTransaction: Undo Set Rotation
+[2024.07.01-21.21.50:685][258]Cmd: TRANSACTION UNDO
+[2024.07.01-21.21.50:686][258]LogEditorTransaction: Undo Rotate Elements
+[2024.07.01-21.23.06:704][542]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LostBalance/Levels/_GENERATED/areve/Box_338F1C56.Box_338F1C56
+[2024.07.01-21.23.06:704][542]LogStaticMesh: Display: Building static mesh Box_338F1C56...
+[2024.07.01-21.23.06:705][542]LogActorFactory: Actor Factory spawned StaticMesh /Game/LostBalance/Levels/_GENERATED/areve/Box_338F1C56.Box_338F1C56 as actor: StaticMeshActor /Game/LostBalance/Levels/Prototype_map_BUILDING.Prototype_map_BUILDING:PersistentLevel.StaticMeshActor_356
+[2024.07.01-21.23.06:706][542]LogStaticMesh: Built static mesh [0.00s] /Game/LostBalance/Levels/_GENERATED/areve/Box_338F1C56.Box_338F1C56
+[2024.07.01-21.25.16:966][683]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LostBalance/Levels/_GENERATED/areve/Combined_4ABE40D1.Combined_4ABE40D1
+[2024.07.01-21.25.16:966][683]LogStaticMesh: Display: Building static mesh Combined_4ABE40D1...
+[2024.07.01-21.25.16:967][683]LogActorFactory: Actor Factory spawned StaticMesh /Game/LostBalance/Levels/_GENERATED/areve/Combined_4ABE40D1.Combined_4ABE40D1 as actor: StaticMeshActor /Game/LostBalance/Levels/Prototype_map_BUILDING.Prototype_map_BUILDING:PersistentLevel.StaticMeshActor_358
+[2024.07.01-21.25.16:967][683]LogStaticMesh: Built static mesh [0.00s] /Game/LostBalance/Levels/_GENERATED/areve/Combined_4ABE40D1.Combined_4ABE40D1
+[2024.07.01-21.25.26:613][674]Cmd: TRANSACTION UNDO
+[2024.07.01-21.25.26:613][674]LogEditorTransaction: Undo Move Elements
+[2024.07.01-21.25.27:058][694]Cmd: TRANSACTION UNDO
+[2024.07.01-21.25.27:058][694]LogEditorTransaction: Undo Move Elements
+[2024.07.01-21.26.05:998][916]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.01-21.26.06:003][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.01-21.26.06:003][916]PIE: New page: PIE session: Prototype_map_BUILDING (Jul 2, 2024, 1:26:06 AM)
+[2024.07.01-21.26.06:023][916]LogPlayLevel: Display: Creating online subsystem for client :Context_9
+[2024.07.01-21.26.06:025][916]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.07.01-21.26.06:030][917]LogPlayLevel: Creating play world package: /Game/LostBalance/Levels/UEDPIE_0_Prototype_map_BUILDING
+[2024.07.01-21.26.06:090][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060077s)
+[2024.07.01-21.26.06:090][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LostBalance/Levels/Prototype_map_BUILDING.Prototype_map_BUILDING to /Game/LostBalance/Levels/UEDPIE_0_Prototype_map_BUILDING.Prototype_map_BUILDING (0.060108s)
+[2024.07.01-21.26.06:099][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.07.01-21.26.06:101][917]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.01-21.26.06:101][917]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.01-21.26.06:102][917]LogAIModule: Creating AISystem for world Prototype_map_BUILDING
+[2024.07.01-21.26.06:102][917]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2024.07.01-21.26.06:102][917]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.07.01-21.26.06:102][917]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.01-21.26.06:102][917]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.01-21.26.06:102][917]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.01-21.26.06:102][917]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.01-21.26.06:102][917]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.01-21.26.06:102][917]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.01-21.26.06:102][917]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.01-21.26.06:102][917]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.01-21.26.06:102][917]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.01-21.26.06:102][917]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.01-21.26.06:102][917]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.01-21.26.06:104][917]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.01-21.26.06:131][917]LogAudioMixer: Display: Using Audio Hardware Device Vere cuffie (Realtek(R) Audio)
+[2024.07.01-21.26.06:131][917]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.01-21.26.06:131][917]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.01-21.26.06:131][917]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.01-21.26.06:131][917]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.07.01-21.26.06:132][917]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.07.01-21.26.06:133][917]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.07.01-21.26.06:133][917]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.07.01-21.26.06:133][917]LogInit: FAudioDevice initialized with ID 3.
+[2024.07.01-21.26.06:133][917]LogAudio: Display: Audio Device (ID: 3) registered with world 'Prototype_map_BUILDING'.
+[2024.07.01-21.26.06:133][917]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.07.01-21.26.06:135][917]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.07.01-21.26.06:163][917]LogWorld: Bringing World /Game/LostBalance/Levels/UEDPIE_0_Prototype_map_BUILDING.Prototype_map_BUILDING up for play (max tick rate 0) at 2024.07.01-23.26.06
+[2024.07.01-21.26.06:163][917]LogWorld: Bringing up level for play took: 0.028298
+[2024.07.01-21.26.06:169][917]LogBlueprintUserMessages: [BP_Vision1_2axes_C_1] 1
+[2024.07.01-21.26.06:169][917]LogBlueprintUserMessages: [BP_Vision1_2axes_C_1] 1
+[2024.07.01-21.26.06:169][917]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] FALSE
+[2024.07.01-21.26.06:170][917]PIE: Server logged in
+[2024.07.01-21.26.06:171][917]PIE: Play in editor total start time 0.168 seconds.
+[2024.07.01-21.26.22:780][894]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Porta2
+[2024.07.01-21.26.25:944][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.01-21.26.25:944][257]LogWorld: BeginTearingDown for /Game/LostBalance/Levels/UEDPIE_0_Prototype_map_BUILDING
+[2024.07.01-21.26.25:944][257]LogWorld: UWorld::CleanupWorld for Prototype_map_BUILDING, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-21.26.25:949][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.01-21.26.25:951][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.01-21.26.25:954][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.01-21.26.25:966][257]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.01-21.26.25:967][257]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.07.01-21.26.25:967][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.07.01-21.26.25:968][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.07.01-21.26.25:971][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.01-21.26.25:983][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.07.01-21.26.26:026][258]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.07.01-21.26.52:085][874]LogViewport: Scene viewport resized to 1553x822, mode Windowed.
+[2024.07.01-21.26.52:111][875]LogViewport: Scene viewport resized to 1553x804, mode Windowed.
+[2024.07.01-21.26.52:145][876]LogViewport: Scene viewport resized to 1553x755, mode Windowed.
+[2024.07.01-21.26.52:181][877]LogViewport: Scene viewport resized to 1553x715, mode Windowed.
+[2024.07.01-21.26.52:227][878]LogViewport: Scene viewport resized to 1553x698, mode Windowed.
+[2024.07.01-21.26.52:263][880]LogViewport: Scene viewport resized to 1553x697, mode Windowed.
+[2024.07.01-21.26.59:706][604]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LostBalance/Levels/_GENERATED/areve/Combined_4ABE40D1.Combined_4ABE40D1
+[2024.07.01-21.26.59:706][604]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LostBalance/Levels/_GENERATED/areve/Combined_4ABE40D1.Combined_4ABE40D1
+[2024.07.01-21.26.59:707][604]LogActorFactory: Actor Factory spawned StaticMesh /Game/LostBalance/Levels/_GENERATED/areve/Combined_4ABE40D1.Combined_4ABE40D1 as actor: StaticMeshActor /Game/LostBalance/Levels/Prototype_map_BUILDING.Prototype_map_BUILDING:PersistentLevel.StaticMeshActor_359
+[2024.07.01-21.27.03:257][904]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LostBalance/Levels/_GENERATED/areve/Combined_4ABE40D1.Combined_4ABE40D1
+[2024.07.01-21.27.03:257][904]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LostBalance/Levels/_GENERATED/areve/Combined_4ABE40D1.Combined_4ABE40D1
+[2024.07.01-21.27.03:258][904]LogActorFactory: Actor Factory spawned StaticMesh /Game/LostBalance/Levels/_GENERATED/areve/Combined_4ABE40D1.Combined_4ABE40D1 as actor: StaticMeshActor /Game/LostBalance/Levels/Prototype_map_BUILDING.Prototype_map_BUILDING:PersistentLevel.StaticMeshActor_360
+[2024.07.01-21.27.04:688][ 55]Cmd: TRANSACTION UNDO
+[2024.07.01-21.27.04:688][ 55]LogEditorTransaction: Undo Create Actors
+[2024.07.01-21.27.32:328][819]LogContentBrowser: Attempting asset rename: Combined_4ABE40D1 -> Locker
+[2024.07.01-21.27.32:359][819]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.01-21.27.32:416][819]LogSavePackage: Moving output files for package: /Game/LostBalance/Levels/_GENERATED/areve/Locker
+[2024.07.01-21.27.32:416][819]LogSavePackage: Moving '../../../../../../Unreal Projects/lost-balance/LostBalance/Saved/LockerB7495ABC4501B2A3CEC01C95D6996442.tmp' to '../../../../../../Unreal Projects/lost-balance/LostBalance/Content/LostBalance/Levels/_GENERATED/areve/Locker.uasset'
+[2024.07.01-21.27.32:421][819]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 578 ms)
+[2024.07.01-21.27.32:432][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.07.01-21.27.32:441][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.07.01-21.27.32:449][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.07.01-21.27.32:450][819]AssetCheck: New page: Asset Save: Locker
+[2024.07.01-21.27.32:450][819]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LostBalance/Levels/_GENERATED/areve/Locker.Locker
+[2024.07.01-21.27.37:208][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.01-21.27.37:224][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LostBalance/Assets/Locker" FILE="../../../../../../Unreal Projects/lost-balance/LostBalance/Content/LostBalance/Assets/Locker.uasset" SILENT=true
+[2024.07.01-21.27.37:226][270]LogSavePackage: Moving output files for package: /Game/LostBalance/Assets/Locker
+[2024.07.01-21.27.37:226][270]LogSavePackage: Moving '../../../../../../Unreal Projects/lost-balance/LostBalance/Saved/Locker96DE3B8E4013BE15F382ECB99F19228F.tmp' to '../../../../../../Unreal Projects/lost-balance/LostBalance/Content/LostBalance/Assets/Locker.uasset'
+[2024.07.01-21.27.37:230][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 22 ms (total: 601 ms)
+[2024.07.01-21.27.37:241][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.07.01-21.27.37:249][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.07.01-21.27.37:256][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.07.01-21.27.37:266][270]AssetCheck: New page: Asset Save: Locker
+[2024.07.01-21.27.37:266][270]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LostBalance/Assets/Locker.Locker
+[2024.07.01-21.27.48:139][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.01-21.27.48:188][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.07.01-21.27.48:423][407]LogSavePackage: Moving output files for package: /Game/LostBalance/Levels/Prototype_map_BUILDING
+[2024.07.01-21.27.48:423][407]LogSavePackage: Moving '../../../../../../Unreal Projects/lost-balance/LostBalance/Saved/Prototype_map_BUILDINGA8EF3180412CE3F8A4DA33987A7C5A04.tmp' to '../../../../../../Unreal Projects/lost-balance/LostBalance/Content/LostBalance/Levels/Prototype_map_BUILDING.umap'
+[2024.07.01-21.27.48:430][407]LogFileHelpers: Saving map 'Prototype_map_BUILDING' took 0.265
+[2024.07.01-21.27.48:435][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 295 ms (total: 897 ms)
+[2024.07.01-21.27.48:436][407]AssetCheck: New page: Asset Save: Prototype_map_BUILDING
+[2024.07.01-21.27.48:437][407]LogContentValidation: Display: Validating /Script/Engine.World /Game/LostBalance/Levels/Prototype_map_BUILDING.Prototype_map_BUILDING
+[2024.07.01-21.28.17:321][678]LogDerivedDataCache: C:/Users/areve/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.082 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2056 files in 3256 folders with total size 160 MiB.
