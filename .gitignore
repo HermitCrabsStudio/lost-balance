@@ -75,3 +75,5 @@ DerivedDataCache/*
 
 # MacOS Stuff
 *.DS_Store
+LostBalance/Saved/Logs/LostBalance.log
+LostBalance/Saved/AutoScreenshot.png
