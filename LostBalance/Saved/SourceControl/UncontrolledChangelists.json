@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Levels/Prototype_map_BUILDING.umap"
+				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Levels/Prototype_map_BUILDING.umap",
+				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Blueprints/Player/BP_FirstPersonCharacter.uasset",
+				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Blueprints/Player/PlayerComponents/BPC_StaminaSystem.uasset",
+				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Blueprints/Player/InputActions/Actions/IA_Sprint.uasset",
+				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Blueprints/Player/InputActions/IMC_Default.uasset"
 			]
 		}
 	]
