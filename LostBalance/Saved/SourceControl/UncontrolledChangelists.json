@@ -43,7 +43,16 @@
 				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Blueprints/LevelDesign/Doors/BP_DoorNoKeyTrasparente.uasset",
 				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/UI/Widgets/WBP_HUD_v1.uasset",
 				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/UI/Widgets/WBP_HUD_Signal.uasset",
-				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Blueprints/Player/Animation/BS_PlayerBody.uasset"
+				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Blueprints/Player/Animation/BS_PlayerBody.uasset",
+				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Assets/BP_Armadio.uasset",
+				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Levels/_GENERATED/canta/Box_CAB3AAA5.uasset",
+				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Levels/_GENERATED/canta/Box_FF54297D.uasset",
+				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Blueprints/LevelDesign/Doors/BP_DoorKey.uasset",
+				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Blueprints/LevelDesign/Doors/BP_DoorNoKey_ReverseOneside.uasset",
+				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Blueprints/LevelDesign/BP_RoomTarget.uasset",
+				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Blueprints/LevelDesign/Doors/BP_DoorNoKeyTrasparenteOneSideOpening.uasset",
+				"D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Content/LostBalance/Materials/PureColors/M_PureWhite.uasset"
 			]
 		}
 	]
