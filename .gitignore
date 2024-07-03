@@ -42,23 +42,23 @@
 *.VC.opendb
 
 # Precompiled Assets
-SourceArt/**/*.png
-SourceArt/**/*.tga
+LostBalance/SourceArt/**/*.png
+LostBalance/SourceArt/**/*.tga
 
 # Binary Files
-Binaries/*
-Plugins/*/Binaries/*
+LostBalance/Binaries/*
+LostBalance/Plugins/*/Binaries/*
 
 # Builds
-Build/*
+LostBalance/Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
-!Build/*/
-Build/*/**
-!Build/*/PakBlacklist*.txt
+!LostBalance/Build/*/
+LostBalance/Build/*/**
+!LostBalance/Build/*/PakBlacklist*.txt
 
 # Don't ignore icon files in Build
-!Build/**/*.ico
+!LostBalance/Build/**/*.ico
 
 # Built data for maps
 *_BuiltData.uasset
@@ -68,10 +68,10 @@ LostBalance/Saved/*
 
 # Compiled source files for the engine to use
 LostBalance/Intermediate/*
-Plugins/*/Intermediate/*
+LostBalance/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
-DerivedDataCache/*
+LostBalance/DerivedDataCache/*
 
 # MacOS Stuff
 *.DS_Store
