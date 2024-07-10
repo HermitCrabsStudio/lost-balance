@@ -1,22 +1,17 @@
-[0710/011935.558:ERROR:backend_impl.cc(1041)] Critical error found -8
-[0710/011935.558:ERROR:entry_impl.cc(1075)] No file for c103051a
-[0710/011935.558:WARNING:storage_block-inl.h(146)] Failed data load.
-[0710/011935.558:WARNING:storage_block-inl.h(146)] Failed data load.
-[0710/011935.558:WARNING:storage_block-inl.h(146)] Failed data load.
-[0710/011935.558:WARNING:storage_block-inl.h(146)] Failed data load.
-[0710/011935.558:ERROR:entry_impl.cc(1075)] No file for c1030520
-[0710/011935.558:WARNING:storage_block-inl.h(146)] Failed data load.
-[0710/011935.558:WARNING:storage_block-inl.h(146)] Failed data load.
-[0710/011935.558:WARNING:storage_block-inl.h(146)] Failed data load.
-[0710/011935.558:WARNING:storage_block-inl.h(146)] Failed data load.
-[0710/011935.558:ERROR:entry_impl.cc(1075)] No file for c1030522
-[0710/011935.559:WARNING:storage_block-inl.h(146)] Failed data load.
-[0710/011935.559:WARNING:storage_block-inl.h(146)] Failed data load.
-[0710/011935.561:WARNING:storage_block-inl.h(146)] Failed data load.
-[0710/011939.050:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0710/012034.967:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 3
-[0710/012128.464:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0710/012128.466:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0710/012129.283:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0710/012129.287:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: D:/LOST BALANCE PROJECT/lost-balance/LostBalance/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0710/012135.317:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0710/153738.784:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0710/153738.784:ERROR:entry_impl.cc(1075)] No file for c103051a
+[0710/153738.784:WARNING:storage_block-inl.h(146)] Failed data load.
+[0710/153738.784:WARNING:storage_block-inl.h(146)] Failed data load.
+[0710/153738.784:WARNING:storage_block-inl.h(146)] Failed data load.
+[0710/153738.784:WARNING:storage_block-inl.h(146)] Failed data load.
+[0710/153738.784:ERROR:entry_impl.cc(1075)] No file for c1030520
+[0710/153738.784:WARNING:storage_block-inl.h(146)] Failed data load.
+[0710/153738.784:WARNING:storage_block-inl.h(146)] Failed data load.
+[0710/153738.784:WARNING:storage_block-inl.h(146)] Failed data load.
+[0710/153738.784:WARNING:storage_block-inl.h(146)] Failed data load.
+[0710/153738.784:ERROR:entry_impl.cc(1075)] No file for c1030522
+[0710/153738.784:WARNING:storage_block-inl.h(146)] Failed data load.
+[0710/153738.785:WARNING:storage_block-inl.h(146)] Failed data load.
+[0710/153738.785:WARNING:storage_block-inl.h(146)] Failed data load.
+[0710/153741.339:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0710/153938.554:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
